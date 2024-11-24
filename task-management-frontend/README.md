@@ -50,12 +50,7 @@ npm install
 # Geliştirme sunucusunu başlatın
 npm run dev
 ```
-
-## Kullanım
-
-### Admin Hesabı
-- Email: admin@taskmanagement.com
-- Şifre: Admin123!
+ 
 
 ### Kullanıcı Rolleri
 
